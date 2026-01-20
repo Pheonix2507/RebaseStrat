@@ -4,7 +4,7 @@ document.getElementById('randomBtn').addEventListener('click', function() {
         'Checking for the commits in this new branch as well!',
         'Random message lets see for this great day!',
         'This is a base project.',
-        'Now checking for the main faults!'
+        'changing the text to check more!'
     ];
     const randomIndex = Math.floor(Math.random() * messages.length);
     document.getElementById('message').textContent = messages[randomIndex];
