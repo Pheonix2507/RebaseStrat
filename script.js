@@ -1,6 +1,6 @@
 document.getElementById('randomBtn').addEventListener('click', function() {
     const messages = [
-        'Hello, World!',
+        'Changing texts to check!',
         'You clicked the button!',
         'Random message: Have a great day!',
         'This is a base project.',
