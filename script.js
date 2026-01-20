@@ -2,7 +2,7 @@ document.getElementById('randomBtn').addEventListener('click', function() {
     const messages = [
         'Changing texts to check!',
         'Checking for the commits in this new branch as well!',
-        'Random message: Have a great day!',
+        'Random message lets see for this great day!',
         'This is a base project.',
         'Keep coding further editing the code to check and merges!'
     ];
